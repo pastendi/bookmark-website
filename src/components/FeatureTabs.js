@@ -8,7 +8,7 @@ const FeatureTabs = () => {
   return (
     <div>
       <div className='container relative mx-auto my-6 mb-32 mt-12 px-6'>
-        <div className='hidden lg:block w-[100vw] h-80 absolute rounded-r-full top-60 bg-softBlue right-[60%]'></div>
+        <div className='hidden lg:block w-[100vw] h-80 absolute rounded-r-full top-52 bg-softBlue right-[60%]'></div>
         {/* tabs */}
         <div className='flex flex-col justify-center max-w-xl mx-auto mb-6 border-b md:flex-row md:space-x-10 cursor-pointer'>
           {tabs.map((x, index) => {

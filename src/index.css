@@ -32,3 +32,7 @@
 .cross ~ .hamburger-bottom {
   transform: rotate(-45deg) translateX(-6px) translateY(6px);
 }
+.dots {
+  background-image: url(./images/bg-dots.svg);
+  background-repeat: no-repeat;
+}
