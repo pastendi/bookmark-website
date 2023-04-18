@@ -36,7 +36,7 @@ const Hero = () => {
             alt=''
             className='relative z-10 lg:top-24 xl:top-0 overflow-x-visible'
           />
-          <div className='hidden lg:block w-[100vw] h-80 absolute rounded-l-full top-52 bg-softBlue left-52'></div>
+          <div className='hidden lg:block w-[100vw] h-80 absolute rounded-l-full top-52 bg-softBlue left-[30%]'></div>
         </div>
       </div>
     </div>
