@@ -1,5 +1,4 @@
 import React from 'react'
-import dots from '../images/bg-dots.svg'
 import chrome from '../images/LOGO-C~1.SVG'
 import firefox from '../images/LOGO-F~1.SVG'
 import opera from '../images/LOGO-O~1.SVG'
